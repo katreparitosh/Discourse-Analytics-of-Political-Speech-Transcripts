@@ -1,5 +1,13 @@
 # Analysis of Political Speech Transcripts
 
+### Elsevier - Scopus Indexed International Journal Paper
+
+International Journal of Recent Technology and Engineering [IJRTE] (https://www.ijrte.org/)
+
+[Paper Link](https://www.ijrte.org/wp-content/uploads/papers/v8i3/C6503098319.pdf)
+
+*[Published]* Paritosh D. Katre, “NLP based Text Analytics and Visualization of Political Speeches”, International Journal for Recent Technology and Engineering (IJRTE), ISSN: 2277-3878, Volume-8 Issue-3, September 2019, pp. 8574-8579. 
+
 ![wordcloud](https://raw.githubusercontent.com/katreparitosh/Election-Campaign-Analytics/master/Word-Cloud/wordcloud.png)
 
   * Codes are available [here](https://github.com/katreparitosh/Election-Campaign-Analytics/tree/master/Code/Cleaning%20and%20Wrangling).
