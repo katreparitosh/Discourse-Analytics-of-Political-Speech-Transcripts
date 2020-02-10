@@ -8,6 +8,12 @@ Link to paper - [Paper Link](https://www.ijrte.org/wp-content/uploads/papers/v8i
 
 *[Published]* Paritosh D. Katre, “NLP based Text Analytics and Visualization of Political Speeches”, International Journal for Recent Technology and Engineering (IJRTE), ISSN: 2277-3878, Volume-8 Issue-3, September 2019, pp. 8574-8579. 
 
+### 2019 9th IEEE International Advance Computing Conference (IACC)
+
+IEEE Xplore Digital Library Proceedings - [Paper Link](https://ieeexplore.ieee.org/document/8971605)
+
+*[Published]* Paritosh D. Katre, "Text Mining and Comparative Visual Analytics on Large Collection of Speeches to Trace Socio-Political Issues",  Proceedings of 2019 IEEE 9th International Conference on Advanced Computing (IACC), pp. 108-144, December 2019.
+
 ### Best Paper Award at National Conference on Recent Advances of Computing (NCRAC 2019)
 ![BestPaperAward](https://raw.githubusercontent.com/katreparitosh/Discourse-Analytics-of-Political-Speeches/master/Findings/Best_Paper_Award.jpg)
 
