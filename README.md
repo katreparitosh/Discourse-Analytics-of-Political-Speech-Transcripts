@@ -1,4 +1,4 @@
-# Analysis of Political Speech Transcripts
+# Discourse Analytics of Political Speech Transcripts
 
 ### Elsevier - Scopus Indexed International Journal Paper
 
