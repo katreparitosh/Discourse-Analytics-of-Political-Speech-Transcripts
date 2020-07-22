@@ -1,6 +1,8 @@
 # Discourse Analytics of Political Speech Transcripts
 
-### Elsevier - Scopus Indexed International Journal Paper
+NLP-Analytics to asses discourse in large collection of political speech transcripts corpus. Conducted the experiments as part of an independent applied research and published the different research findings in 2 research papers.
+
+### Elsevier - Scopus Indexed International Journal
 
 International Journal of Recent Technology and Engineering [IJRTE] (https://www.ijrte.org/)
 
